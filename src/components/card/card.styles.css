@@ -20,3 +20,9 @@
 .card-container img {
   width: 180px;
 }
+
+.card-heading {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 10px 0;
+}
